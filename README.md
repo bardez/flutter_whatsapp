@@ -1,7 +1,7 @@
 # flutter-whatsapp
 Clone of Whatsapp app for study purpose
 
-## Functionalities
+## Features
 
 * Login and create accounts with Firebase Auth
   * email validators 
